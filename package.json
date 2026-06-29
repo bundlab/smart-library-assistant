@@ -1,0 +1,20 @@
+{
+  "name": "smart-library-assistant",
+  "version": "1.0.0",
+  "description": "AI-powered Library Assistant using Genkit + Gemini",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "ts-node-esm src/index.ts"
+  },
+  "dependencies": {
+    "@genkit-ai/googleai": "^1.28.0",
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.4.0",
+    "genkit": "^1.28.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

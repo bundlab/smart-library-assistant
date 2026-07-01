@@ -65,14 +65,14 @@ Click the **Fork** button in the upper-right corner of this repository.
 ## 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/<your-username>/smart-library-assistant.git
+git clone https://github.com/bundlab/smart-library-assistant.git
 cd smart-library-assistant
 ```
 
 ## 3. Add the Original Repository
 
 ```bash
-git remote add upstream https://github.com/<original-owner>/smart-library-assistant.git
+git remote add upstream https://github.com/bundlab/smart-library-assistant.git
 ```
 
 Verify the remotes:

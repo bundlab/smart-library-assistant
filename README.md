@@ -133,8 +133,12 @@ Key environment variables:
  - [ ] Evaluation framework & unit tests
  - [ ] Dashboard UI
 
- ## 🤝 Contributing
-Contributions are welcome! Please read our Contributing Guide for details.
+## 🤝 Contributing
+
+We welcome contributions! Please read our [Contributor Guide](doc/create-contributor-guide) and [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+
+See the [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct, development process, and how to submit pull requests.
+
 ## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 

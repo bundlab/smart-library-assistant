@@ -38,9 +38,11 @@ smart-library/
 │   ├── retrievers/      # Vector stores and retrieval implementations
 │   └── index.ts         # Main SmartLibrary class
 ├── .env                 # Environment variables (not committed)
+├── .env.example.md                 
 ├── .gitignore
 ├── package.json
 ├── tsconfig.json
+├── CONTRIBUTING.md
 ├── README.md
 └── package-lock.json
 ```
